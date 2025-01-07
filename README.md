@@ -2,6 +2,10 @@
 
 MailAgent is an AI-powered assistant designed to streamline your email tasks and enhance productivity. This project demonstrates the integration of tools, LangGraph, and Gmail, showcasing the power of modern AI agents.
 
+![gmail](https://th.bing.com/th?id=OIP.rh-9ZKeTeRAjznl0dQD3CQHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2)
+![AI](https://th.bing.com/th?id=OIP.D5vR5GjX-Wqur4JH_dC6TQHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2)
+
+
 ## Features
 - **Agent-Based Experience**: 
   - Proactive AI capable of performing specific tasks with minimal user input.
