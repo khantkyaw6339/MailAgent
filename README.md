@@ -40,4 +40,4 @@ MailAgent is an AI-powered assistant designed to streamline your email tasks and
 - **LangGraph**: 
   - Provides structured task execution and advanced orchestration.
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
